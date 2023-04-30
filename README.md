@@ -1,3 +1,8 @@
+# Getting Started with Deployed app
+i have deployed this small app on netlify 
+https://644e562062fef54687b98d5c--mellifluous-marigold-0b46e9.netlify.app/  by using this link you can check the app on your browser
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
